@@ -2,8 +2,6 @@
 A modern, responsive personal portfolio website built using **ReactJS**, **TailwindCSS** — designed to showcase my projects, skills, and experience.
 
 
----
-
 🌐 **Live Demo:** [View My Portfolio](https://my-portfolio.vercel.app)
 
 ---
