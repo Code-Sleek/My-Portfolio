@@ -1,6 +1,3 @@
-# My-Portfolio
----
-
 # 💼 My Portfolio
 A modern, responsive personal portfolio website built using **ReactJS**, **TailwindCSS** — designed to showcase my projects, skills, and experience.
 
