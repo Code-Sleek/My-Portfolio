@@ -22,31 +22,5 @@ A modern, responsive personal portfolio website built using **ReactJS**, **Tailw
 
 ---
 
-## 📂 Folder Structure
-
-```
-├── public/
-│   ├── projects
-├── src/
-│   ├── components
-│       ├─
-│       ├── AboutSection.jsx
-│       ├── ContactSection.jsx
-│       ├── Footer.jsx
-│       ├── HeroSection.jsx
-│       ├── Navbar.jsx
-│       ├── ProjectsSection.jsx
-│       ├── SkillsSection.jsx
-│       ├── StarBackground.jsx
-│       ├── ThemeToggle.jsx
-│   ├── pages/
-│       ├── Home.jsx
-│       ├── NotFound.jsx
-│       App.jsx
-│   ├── index.css
-│   ├── main.jsx
-└── README.md
-```
-
 ⭐ Feel free to star this repo to support my work!
 
