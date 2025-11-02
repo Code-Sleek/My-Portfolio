@@ -2,7 +2,8 @@
 A modern, responsive personal portfolio website built using **ReactJS**, **TailwindCSS** — designed to showcase my projects, skills, and experience.
 
 
-🌐 **Live Demo:** [View My Portfolio](https://yashodha-code-sleek.vercel.app/)
+🌐 **Live Demo:** <a href="https://my-portfolio.vercel.app" target="_blank"> View My Portfolio</a>
+
 
 Use the Dark mode for better view 😄
 
