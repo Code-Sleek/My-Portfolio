@@ -3,7 +3,7 @@ A modern, responsive personal portfolio website built using **ReactJS**, **Tailw
 
 
 🌐 **Live Demo:** 
-<a href="https://my-portfolio.vercel.app" target="_blank"> View My Portfolio</a>
+<a href="https://yashodha-code-sleek.vercel.app/" target="_blank"> View My Portfolio</a>
 
 
 Use the Dark mode for better view 😄
