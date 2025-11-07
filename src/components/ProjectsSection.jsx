@@ -5,7 +5,7 @@ const projects = [
         id:1,
         title: "SQL Data Warehouse Project",
         image: "/Projects/Data Flow.png",
-        tags: ["SQL"],
+        tags: ["SQL", "ETL pipeline", "Data Modelling"],
         demoUrl: "#",
         githubUrl: "https://github.com/Code-Sleek/SQL-Data-Warehouse-Project",
         description: "This project showcases an end-to-end data engineering and analytics workflow."
