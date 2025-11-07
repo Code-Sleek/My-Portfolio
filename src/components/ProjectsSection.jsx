@@ -8,7 +8,7 @@ const projects = [
         tags: ["SQL"],
         demoUrl: "#",
         githubUrl: "https://github.com/Code-Sleek/SQL-Data-Warehouse-Project",
-        description: "This project showcases an end-to-end data engineering and analytics workflow — from constructing a robust data warehouse to uncovering meaningful business insights. Built as a portfolio project, it reflects real-world methodologies, best practices, and industry-grade analytics processes."
+        description: "This project showcases an end-to-end data engineering and analytics workflow."
     },
     {
 
