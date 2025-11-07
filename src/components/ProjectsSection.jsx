@@ -3,6 +3,17 @@ import { ArrowRight, ExternalLink, Github } from "lucide-react";
 const projects = [
     {
         id:1,
+        title: "SQL Data Warehouse Project",
+        image: "/Projects/Data Flow.png",
+        tags: ["SQL"],
+        demoUrl: "#",
+        githubUrl: "https://github.com/Code-Sleek/SQL-Data-Warehouse-Project",
+        description: "This project showcases an end-to-end data engineering and analytics workflow — from constructing a robust data warehouse to uncovering meaningful business insights. Built as a portfolio project, it reflects real-world methodologies, best practices, and industry-grade analytics processes."
+    },
+    {
+
+
+        id:2,
         title: "Customer Shopping Behavior Analysis",
         image: "/Projects/Dashboard.png",
         tags: ["Python", "PostgreSQL", "Power BI"],
