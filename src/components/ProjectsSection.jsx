@@ -21,6 +21,17 @@ const projects = [
         githubUrl: "https://github.com/Code-Sleek/Customer-Behavior-Analysis",
         description: "A Dashboard that analyzes customer shopping behavior using data visualization techniques."
     },
+    {
+
+
+        id:3,
+        title: "AI Life Coach App",
+        image: "/Projects/AI Coach.png",
+        tags: ["Python", "Streamlit", "LLM Ollama", "Transformers"],
+        demoUrl: "#",
+        githubUrl: "https://github.com/Code-Sleek/AI-Life-Coach-App",
+        description: "An AI-powered life coach app that turns how you feel into small, actionable goals."
+    },
 ]
 
 export const ProjectsSection = () => {
